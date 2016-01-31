@@ -1,0 +1,26 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+ 	background: #efabb8;
+	color: #000;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+header{
+	width: 100%;
+	height: 200px;
+	background: #333;
+	padding-top:2em;
+	color: #FFF;
+}
+
+li{
+	list-style-type: none;
+	padding-top:2em;
+	font-size:1.2em;
+}
